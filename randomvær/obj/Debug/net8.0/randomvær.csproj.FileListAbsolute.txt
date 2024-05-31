@@ -1,0 +1,14 @@
+C:\Users\sebas\OneDrive\kode\c#\randomvær\randomvær\obj\Debug\net8.0\randomvær.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\kode\c#\randomvær\randomvær\obj\Debug\net8.0\randomvær.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\kode\c#\randomvær\randomvær\obj\Debug\net8.0\randomvær.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\kode\c#\randomvær\randomvær\obj\Debug\net8.0\randomvær.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\kode\c#\randomvær\randomvær\bin\Debug\net8.0\randomvær.exe
+C:\Users\sebas\OneDrive\kode\c#\randomvær\randomvær\bin\Debug\net8.0\randomvær.deps.json
+C:\Users\sebas\OneDrive\kode\c#\randomvær\randomvær\bin\Debug\net8.0\randomvær.runtimeconfig.json
+C:\Users\sebas\OneDrive\kode\c#\randomvær\randomvær\bin\Debug\net8.0\randomvær.dll
+C:\Users\sebas\OneDrive\kode\c#\randomvær\randomvær\bin\Debug\net8.0\randomvær.pdb
+C:\Users\sebas\OneDrive\kode\c#\randomvær\randomvær\obj\Debug\net8.0\randomvær.dll
+C:\Users\sebas\OneDrive\kode\c#\randomvær\randomvær\obj\Debug\net8.0\refint\randomvær.dll
+C:\Users\sebas\OneDrive\kode\c#\randomvær\randomvær\obj\Debug\net8.0\randomvær.pdb
+C:\Users\sebas\OneDrive\kode\c#\randomvær\randomvær\obj\Debug\net8.0\randomvær.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\kode\c#\randomvær\randomvær\obj\Debug\net8.0\ref\randomvær.dll
